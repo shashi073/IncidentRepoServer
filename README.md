@@ -1,7 +1,7 @@
 # IncidentRepoServer
 
 
-# Basic Table scrit
+# Basic Table script
 CREATE TABLE ticker (
 id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
 ticker VARCHAR(30) NOT NULL)
